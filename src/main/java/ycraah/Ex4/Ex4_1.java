@@ -1,6 +1,4 @@
-package ycraah.practice;
-
-import java.util.Arrays;
+package ycraah.Ex4;
 
 public class Ex4_1 {
   public static void main(String[] args) {

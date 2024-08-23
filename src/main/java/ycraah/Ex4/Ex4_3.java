@@ -1,4 +1,4 @@
-package ycraah.practice;
+package ycraah.Ex4;
 
 import java.util.Arrays;
 

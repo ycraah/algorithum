@@ -1,4 +1,4 @@
-package ycraah.practice;
+package ycraah.Ex3;
 
 public class Ex3_1 {
   public static void main(String[] args) {

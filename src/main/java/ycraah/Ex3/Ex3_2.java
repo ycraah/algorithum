@@ -1,4 +1,4 @@
-package ycraah.practice;
+package ycraah.Ex3;
 
 import java.util.Scanner;
 
